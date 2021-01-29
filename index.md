@@ -16,4 +16,4 @@ The purpose of this analysis is to find out what are the significant factors tha
 
 ### [Project 3: Wine Review Analysis](https://github.com/menglei2/Wine_Review_Analysis)
 
-This project uses wine review dataset at Kaggle to predictthe points rated by WineEnthusiast on a scale of 1-100 based on several wine information, including wine review, country of the wine, variety and winery. Two models are used: linear regression and random forest regression. Exploratory data analysis is also included.
+This project uses wine review dataset at Kaggle to predict the points rated by WineEnthusiast on a scale of 1-100 based on several wine information, including wine review, country of the wine, variety and winery. Two models are used: linear regression and random forest regression. Exploratory data analysis is also included.
